@@ -1,3 +1,10 @@
+/////////////To push the ode in remote
+Git add .
+Git commit -m"commit name"
+git pull origin master.
+
+
+
 Q>I want to push the code in the Github  from local folder, I have creted the Repojetory , can you guide the step I forget the steps.
 Sure! Here's a step-by-step guide on how to push code from your local folder to a GitHub repository. Since you've already created the repository, I'll start from there.
 
