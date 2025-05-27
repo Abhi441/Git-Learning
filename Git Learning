@@ -1,7 +1,7 @@
 /////////////To push the ode in remote
 Git add .
 Git commit -m"commit name"
-git pull origin master.
+git push origin master.
 
 
 
