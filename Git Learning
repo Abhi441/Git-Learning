@@ -1,3 +1,6 @@
+///////////////////To pull the code from remote
+git pull origin
+
 /////////////To push the ode in remote
 Git add .
 Git commit -m"commit name"
